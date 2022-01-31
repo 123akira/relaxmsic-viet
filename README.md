@@ -3,10 +3,6 @@
 		<meta charset="utf-8">
 	</hear>
 	<body>
-		<h1>
-			Tài liệu giải trí, học tập
-		</h1>
-	<br>
 		<ol type="I">
 			<li>
 				<a href="Tin Hoc c++.html">
@@ -19,7 +15,6 @@
 				</a>
 			</li>
 		</ol>
-		@copyright by Nguyen Anh Minh
-
+	@copyright by Nguyen Anh Minh
 	</body>
 </html>
